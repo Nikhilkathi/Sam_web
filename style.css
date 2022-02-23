@@ -13,12 +13,15 @@ header{
     background-size: auto;
     text-decoration: double;
 }
-.slideframe{
+.homepage{
+    margin-top: 20px;
+}
+/* .slideframe{
     box-sizing: border-box;
     overflow: hidden;
-    height: 100px;
+    height: 50px;
     margin-top: 30px;
-    /* position: fixed; */
+    position: fixed;
 }
 @-webkit-keyframes slide_animation{
     0% {left: 0px;}
@@ -34,7 +37,7 @@ header{
     100% {left: 0px;}
 }
 .slide_images{
-    /* display: flex; */
+    display: flex;
     width: 50%;
     height: 100px;
     margin: 0 0 0 -1400px;
@@ -52,7 +55,7 @@ header{
     width: 50px;
     position: relative;
     float:left;
-}
+} */
 ul{
 float: right;
 margin-right: 10mm;
