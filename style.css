@@ -172,5 +172,5 @@ margin-left: 20px;
 }
 .footer .fotter-content .fotter-section{
     flex: 1;
-    /* border: 1px solid white; */
+    border: 1px solid white transparent;
 }
